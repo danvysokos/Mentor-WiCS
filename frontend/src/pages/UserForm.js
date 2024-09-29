@@ -54,7 +54,7 @@ function UserForm() {
 
     return (
         <div className="user-form section">
-            <h2>Create User</h2>
+            <h2>Sign Up</h2>
             <form onSubmit={handleSubmit}>
                 <input
                 type="text"

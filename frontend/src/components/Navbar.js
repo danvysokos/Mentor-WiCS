@@ -8,7 +8,7 @@ function Navbar() {
     return (
       <nav className="navbar">
         <div className="navbar-brand">
-          <h1>Mentoring App</h1>
+          <h1>inTech Girls</h1>
         </div>
         <ul className="navbar-links">
           <li>
@@ -18,7 +18,10 @@ function Navbar() {
             <Link to="/mentors">Mentors</Link>
           </li>
           <li>
-            <Link to="/create-user">Create User</Link>
+            <Link to="/resources">Resources</Link>
+          </li>
+          <li>
+            <Link to="/create-user">Sign Up</Link>
           </li>
         </ul>
       </nav>

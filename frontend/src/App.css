@@ -13,9 +13,9 @@ main {
 .section {
   background-color: 'white'; /* White background for sections */
   /* border-radius: 8px;  */
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 10px;
+  /* padding-left: 10px;
+  padding-right: 10px; */
+  /* padding-top: 10px; */
 
   /* margin-bottom: 20px; */
 }
